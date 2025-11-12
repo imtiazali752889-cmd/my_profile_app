@@ -24,7 +24,7 @@ class AboutMeScreen extends StatelessWidget {
           ),
           const SizedBox(height: 8),
           const Text(
-            "• BS Computer Science, Karakoram International University\n• Intermediate in Pre-Engineering",
+            "• BS Computer Science, Karakoram International University, Gilgit Baltistan\n• Intermediate in Pre-Engineering",
           ),
           const SizedBox(height: 20),
 
