@@ -49,7 +49,7 @@ class AboutMeScreen extends StatelessWidget {
             style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
           ),
           const SizedBox(height: 8),
-          const Text("• Reading tech blogs\n• Playing football\n• Exploring new applications"),
+          const Text("• Reading tech blogs\n• Playing football\n• Exploring new apps"),
         ],
       ),
     );
